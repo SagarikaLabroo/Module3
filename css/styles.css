@@ -30,3 +30,6 @@ p {
 #main-content {
   margin: auto;
 }
+#collapsable-nav {
+  background-color: silver;
+}
